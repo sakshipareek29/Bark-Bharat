@@ -1,0 +1,6 @@
+{
+  "name": "BarkBharat",
+  "description": "Dog Breed & Cost Guide in India - compare regional puppy and care costs across states, review climate advisories, and explore responsible pet adoption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
